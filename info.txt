@@ -1,0 +1,68 @@
+Conferencias
+
+FrontInSampa
+Nome: Front In Sampa 2017 6a Edição
+Abreviação: fis
+Data: 1 de julho
+Horário: 8h - 19h
+Local: Teatro do Hotel Maksoud Plaza
+R. São Carlos do Pinhal, 424 - Bela Vista - São Paulo/SP
+Descrição: O maior evento sobre front-end do Brasil.
+Organizador(es): Equipe Front In Sampa
+Foto: img\fis-back
+Site: http://www.frontinsampa.com.br/
+
+Fórum E-Commerce Brasil 2017
+Nome: Fórum E-Commerce Brasil '2017
+Abreviação: feb
+Data: 25 a 27 de julho
+Horário:  a definir
+Local: Transamerica Expo Center
+Av. Dr. Mário Villas Boas Rodrigues, 387 - Santo Amaro
+São Paulo/SP
+Descrição: O Fórum E-Commerce Brasil 2017 é o principal evento de
+e-commerce da América Latina e o terceiro maior evento de e-commerce
+do mundo, de acordo com a Forrester Research.
+Organizador(es): Equipe Fórum E-Commerce Brasil
+Foto: img\feb-back
+Site: https://www.ecommercebrasil.com.br/forum2017/
+
+BrazilJS
+Nome: BrazilJS Conf 2017 7a Edição
+Abreviação: bjs
+Data: 25 e 26 de agosto
+Horário: a definir
+Local: Barra Shopping Sul
+Av. Diário de Notícias, 300 - Cristal - Porto Alegre/RS
+Descrição: A já tradicional e querida BrazilJS Conf, maior conferência JavaScript do mundo, está com os dias de sua sétima edição confirmados: 25 e 26 de Agosto, no Barra Shopping Sul, na zona Sul de Porto Alegre.
+Este ano, o evento também será realizado no nordeste do Brasil.
+Organizador(es): BrazilJS
+Foto: img\braziljs-back
+Site: https://braziljs.org/conf/
+
+PythonBrasil
+Nome: 13a Conferência Brasileira da Comunidade Python
+Abreviação: pbr
+Data: 6 a 11 de outubro
+Horário: a definir
+Local: Dayrell Hotel
+Rua Espirito Santo, 901 - Centro - Belo Horizonte/MG
+Descrição: A PythonBrasil reúne centenas de pessoas durante
+6 dias para discutir sobre software livre, práticas de
+desenvolvimento e Python. Este ano organizada pela comunidade
+Python de Belo Horizonte/MG com ajuda da APyB (Associação Python Brasil).
+Organizador(es): Equipe Python Brasil
+Foto: img\pbr-back
+Site: http://2017.pythonbrasil.org.br/
+
+PHP Conference Brasil 2017
+Nome: PHP Conference Brasil 2017
+Abreviação: pcb
+Data: 6 a 10 de dezembro
+Horário: a definir
+Local: UNIFIEO
+Av. Franz Voegeli, 300 - Continental - Osasco/SP
+Descrição: O principal evento de PHP da América Latina.
+Organizador(es): Equipe PHP Brasil
+Foto: img\pcb-back
+Site: http://phpconference.com.br/
